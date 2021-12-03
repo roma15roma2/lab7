@@ -1,7 +1,7 @@
-def new (x, y):
+def sum_nums(x, y):
     total = x + y
     return total
 first = 2
 second = 5
-sum = new(first, second)
+sum = sum_nums(first, second)
 print(sum)
